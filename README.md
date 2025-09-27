@@ -1,6 +1,6 @@
 # Account Information Search Service
 
-This project is designed to work in conjunction with the `reactive-design-patterns` project. It simulates searches for account information based on a provided `userId` input.
+This project is designed to work in conjunction with the [reactive-design-patterns](https://github.com/Damore/reactive-design-patterns) project. It simulates searches for account information based on a provided `userId` input.
 
 ## Overview
 
