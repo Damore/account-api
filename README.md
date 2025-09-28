@@ -10,7 +10,7 @@ This project is designed to work in conjunction with the [reactive-design-patter
 
 ## Purpose
 
-The service exposes endpoints to retrieve account information by `userId`, demonstrating reactive programming patterns as outlined in the `reactive-design-patterns` project.
+The service exposes endpoints to retrieve account information by `userId`. Each package will contain a different problem/error scenario to demonstrate various design patterns for integration and resilience in reactive systems.
 
 ## Usage
 
@@ -20,7 +20,7 @@ The service exposes endpoints to retrieve account information by `userId`, demon
 
 ## Related Projects
 
-- [reactive-design-patterns](../reactive-design-patterns): Core project demonstrating reactive design patterns.
+- [reactive-design-patterns](https://github.com/Damore/reactive-design-patterns): Core project demonstrating reactive design patterns.
 
 ## License
 

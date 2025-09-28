@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import br.com.gabriel.account.record.AccountInformation;
-import br.com.gabriel.account.service.AccountService;
+import br.com.gabriel.account.circuitbreaker.service.AccountService;
 import lombok.RequiredArgsConstructor;
 
 @RestController
